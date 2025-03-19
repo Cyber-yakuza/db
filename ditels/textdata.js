@@ -1,5 +1,5 @@
 {
-"footer": "⭐𝗙𝗼𝗹𝗹𝗼𝘄𝗲𝗿 𝘂𝘀 🥷*\n*𝗥𝗲𝗽𝗼 💀*\nhttps://github.com/MALAKA-CM/MALAKA-MD-V1\n\n*> 🥷ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ʏᴀᴋᴜᴢᴀ ᴛᴇᴀᴍ💀",
+"footer": "*● Fᴏʟʟᴏᴡᴇ Uꜱ 🔥*\n*REPO 🎲*\nhttps://github.com/MALAKA-CM/MALAKA-MD-V1\n\n> *㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙼𝙰𝙻𝙰𝙺𝙰-𝙼𝙳 〽️M*",
 "mainimg": "https://i.ibb.co/sdcDXxXn/6073.jpg",
 "replyMsg": {
   "givetext": "*Please give me text..!✏️*",
